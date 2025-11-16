@@ -1,7 +1,3 @@
-// Rock-Paper-Scissors Game in C
-// Author: SK Sahil
-// User vs Computer game using random numbers
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
